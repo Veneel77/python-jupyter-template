@@ -2,3 +2,4 @@ ipykernel
 pydantic
 matplotlib
 pandas
+seaborn
